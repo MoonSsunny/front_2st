@@ -11,7 +11,7 @@
     "test:c": "vitest src/__tests__/MyReact.test.js"
   },
   "devDependencies": {
-    "vitest": "^1.4.0",
-    "jsdom": "^24.0.0"
+    "jsdom": "^24.0.0",
+    "vitest": "^1.4.0"
   }
 }
